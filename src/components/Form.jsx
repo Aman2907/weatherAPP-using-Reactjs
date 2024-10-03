@@ -11,7 +11,7 @@ const Container = styled(Box)({
 
 const Input = styled(InputBase)({
   color: '#FFF',
-  marginRight: 20,
+  marginRight: 22,
   fontSize: 18
 });
 
