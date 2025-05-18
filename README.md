@@ -1,3 +1,3 @@
-# WEATHER APP using ReactJS
+# WEATHER APP using ReactJS.
 
 
